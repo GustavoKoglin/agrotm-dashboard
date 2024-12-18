@@ -47,8 +47,8 @@ const FormPage: FC = (): ReactElement => {
   return (
     <S.Container>
       <S.Logo>
-        <S.TitleLogo>PAULO JORGE</S.TitleLogo>
-        <S.SubTitleLogo>Mecânia automotiva</S.SubTitleLogo>
+        <S.TitleLogo>AGROTM</S.TitleLogo>
+        {/* <S.SubTitleLogo>Mecânia automotiva</S.SubTitleLogo> */}
       </S.Logo>
 
       <S.Form form={form} layout="vertical" name="nest-messages">

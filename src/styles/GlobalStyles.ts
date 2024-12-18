@@ -160,7 +160,6 @@ export default createGlobalStyle`
     background-color: #FFF;
     box-shadow: 1px 1px 10px #00000075;
     font-weight: 500;
-    font-family: 'Inter'
   }
 
   .ant-tooltip-arrow-content {

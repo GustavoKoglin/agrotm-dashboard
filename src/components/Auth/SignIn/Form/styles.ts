@@ -18,7 +18,6 @@ export const Logo = styled.div`
   align-items: center;
   justify-content: center;
   margin-bottom: 36px;
-  font-family: "Inter";
 `;
 
 export const TitleLogo = styled.span`
